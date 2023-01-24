@@ -1,4 +1,4 @@
-use rs_web_response::*;
+use rs_web_response::v1::*;
 
 #[test]
 fn test_web_error_struct() {
